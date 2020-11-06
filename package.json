@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "isomorphic": "0.0.11",
+    "isomorphic-unfetch": "^3.1.0",
+    "next": "^10.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "name": "nextjs-tutorial",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajewe/nextjs-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajewe/nextjs-tutorial/issues"
+  },
+  "homepage": "https://github.com/ajewe/nextjs-tutorial#readme"
+}
